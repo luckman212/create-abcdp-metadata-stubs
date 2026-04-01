@@ -1,1 +1,0 @@
-/Users/luke/Sync/Scripts/helpers/create_abcdp_metadata_stubs.sh
